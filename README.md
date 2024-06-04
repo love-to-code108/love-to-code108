@@ -1,11 +1,15 @@
 <h1 align="left">Hello World</h1>
 <p align="left">
 
-Hi, I'm Biswanath!   I'm a passionate coder currently entering my third year of studies and on a mission to become a well-rounded developer.  Web development is my jam, and I think i can call myself a **Full-stack Web developer** .
+Hi, my name is Biswanath Mukherjee, and I am a Full Stack Web Developer with over 2 years of experience in this field. Currently, I am working as a freelancer, where I help my clients build beautiful portfolios and highly performance-oriented web apps.
 
-Beyond web, I've tinkered with Arduino, ESP32, and dabbled in the fascinating world of IoT.  When I'm not coding, you might find me tinkering with **Arch Linux (btw)**.
+**What I Do** In my role as a freelancer, I specialize in creating smooth web animations and building secure and functional websites. I take pride in developing websites for clients that successfully maintain high performance even under extremely heavy user traffic.
 
-Looking ahead, I'm eager to explore the exciting world of **Machine Learning and Artificial Intelligence**.  I'm a huge believer in open source (Linux user here!), and I'm always looking for opportunities to collaborate on open-source projects and learn from the amazing developer community.  Feel free to reach out if you have any projects or just want to chat code!</p>
+**Accomplishments** Throughout my career, I have built websites that not only look great but also perform exceptionally well, ensuring a seamless user experience even during peak traffic times.
+
+**Passions and Values** I'm passionate about leveraging technology to create meaningful customer experiences. I believe in continuous learning and staying ahead of industry trends to provide innovative solutions.
+
+**Career and Networking Goals** I'm always looking to connect with fellow professionals in the web development space, share insights, and explore new opportunities for collaboration. If you are interested in web development trends or have exciting projects to discuss, let's connect!</p>
 
 - 🌱 I’m currently learning **Next Js**
 
